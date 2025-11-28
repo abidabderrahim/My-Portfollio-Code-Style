@@ -2,7 +2,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/abidabderrahim?style=social)](https://github.com/abidabderrahim)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abderrahim-blue?style=social&logo=linkedin)](https://linkedin.com/in/abidabderrahim)
-[![GitHub](https://img.shields.io/github/stars/abidabderrahim/portfolio?style=social)](https://github.com/abidabderrahim)
 
 Welcome to the portfolio of **Abderrahim Abid**, a Full-Stack Developer, UI/UX Designer, and QA & Automation Specialist based in Casablanca, Morocco. This project showcases my skills, experience, projects, and hobbies in a clean, code-style interface.
 
