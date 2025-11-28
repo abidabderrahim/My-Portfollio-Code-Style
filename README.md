@@ -12,12 +12,6 @@ You can view the live portfolio here: [LIVE PORTFOLIO](https://abidabderrahim.gi
 
 ---
 
-## 🖼️ Screenshot
-![Portfolio Screenshot](images/screenshot.png)  
-*(Replace `images/screenshot.png` with your actual screenshot file)*
-
----
-
 ## 🛠️ Built With
 
 - **HTML5 & CSS3** – Structure and styling
